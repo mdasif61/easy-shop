@@ -1,0 +1,23 @@
+[
+    {
+      "categoryId": 1,
+      "name": "Smartphones"
+    },
+    {
+      "categoryId": 2,
+      "name": "Laptops"
+    },
+    {
+      "categoryId": 3,
+      "name": "TVs"
+    },
+    {
+      "categoryId": 4,
+      "name": "Cameras"
+    },
+    {
+      "categoryId": 5,
+      "name": "Headphones"
+    }
+  ]
+  

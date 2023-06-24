@@ -1,0 +1,64 @@
+[
+    {
+      "name": "iPhone 12",
+      "price": 999,
+      "description": "The iPhone 12 features a Super Retina XDR display and A14 Bionic chip.",
+      "id": 1
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 899,
+      "description": "The Samsung Galaxy S21 comes with a stunning Dynamic AMOLED 2X display and a powerful Exynos 2100 processor.",
+      "id": 1
+    },
+    {
+      "name": "MacBook Pro 16-inch",
+      "price": 2399,
+      "description": "The MacBook Pro 16-inch offers a brilliant Retina display, Intel Core i9 processor, and a spacious SSD.",
+      "id": 2
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1399,
+      "description": "The Dell XPS 13 features an InfinityEdge display, Intel Core i7 processor, and a slim, lightweight design.",
+      "id": 2
+    },
+    {
+      "name": "Sony BRAVIA X900H",
+      "price": 1499,
+      "description": "The Sony BRAVIA X900H is a 4K Ultra HD TV with Triluminos display and Dolby Vision support.",
+      "id": 3
+    },
+    {
+      "name": "LG OLED CX",
+      "price": 1999,
+      "description": "The LG OLED CX is a 4K OLED TV with perfect blacks and stunning color accuracy.",
+      "id": 3
+    },
+    {
+      "name": "Canon EOS R5",
+      "price": 3899,
+      "description": "The Canon EOS R5 is a professional-grade mirrorless camera with 45 megapixels and 8K video recording capability.",
+      "id": 4
+    },
+    {
+      "name": "Nikon D850",
+      "price": 3499,
+      "description": "The Nikon D850 is a full-frame DSLR camera with 45.7 megapixels and 4K UHD video recording.",
+      "id": 4
+    },
+    {
+      "name": "Bose QuietComfort 35 II",
+      "price": 299,
+      "description": "The Bose QuietComfort 35 II is a wireless noise-canceling headphone with up to 20 hours of battery life.",
+      "id": 5
+    },
+    {
+      "name": "Sony WH-1000XM4",
+      "price": 349,
+      "description": "The Sony WH-1000XM4 is a premium wireless headphone with     up to 30 hours of battery life and industry-leading noise cancellation.",
+      "id": 5
+    }
+  ]
+  
+  
